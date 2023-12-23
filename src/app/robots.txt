@@ -1,0 +1,9 @@
+User-agent: *
+
+disallow: /search?query=*
+disallow: /compare?id=*
+disallow: *http://link.gsm.ir/*
+disallow: /lnk
+
+
+Sitemap: https://www.gsm.ir/sitemap.xml

@@ -1,0 +1,20 @@
+export const generalRoutes = {
+    aboutus: "/aboutus",
+    articles: "/mag/articles",
+    article: "/mag/articles",
+    brandList: "/brands",
+    comparison: "/compare",
+    contactUs: "/contactus",
+    login: "/login",
+    newsList: "/mag/news",
+    news: "/mag/news",
+    plp: "/price",
+    reviewList: "/mag/reviews",
+    review: "/mag/reviews",
+    search: "/search",
+    signup: "/signup",
+    home: "/",
+    termsAndConditions: "/terms",
+    privacy: "/privacy",
+    product: "/product"
+}
